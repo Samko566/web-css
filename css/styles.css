@@ -1,0 +1,46 @@
+body{
+background-color:#dbe3e5;
+font-family: Verdana, sans-serif,Georgia;
+}
+hr
+{
+
+border-style:none;
+border-top-style: dotted;
+border-color: red;
+border-width: 5px;
+width: 10%;
+}
+
+h1{
+  color:#0f4c75;
+}
+
+h3{
+  color:#0f4c75;
+}
+
+/********************************CLASS SELECTOR********************************/
+
+.redh3 {
+  color: red;
+}
+.greenh3{
+  color: green;
+}
+.georgia{
+  font-family: Georgia,serif;
+}
+
+img:hover{
+  background-color: black;
+}
+
+
+/********************************ID SELECTORS********************************/
+#mainheading{
+  color: white;
+}
+#dotted {
+  border-top-style: dotted;
+}
